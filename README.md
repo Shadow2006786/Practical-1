@@ -1,2 +1,3 @@
-# Practical-1
-Practical # 1
+# network-dev
+
+## 1. Creation a simple analogue of the nslookup utility
